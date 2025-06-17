@@ -187,7 +187,7 @@
 .form-box {
   background-image: 
     linear-gradient(var(--primary-color-light), var(--primary-color-light)),
-    url(../edotask/events/istockphoto-1476720865-1024x1024.jpg);
+    url(../../images/events/istockphoto-1476720865-1024x1024.jpg);
   height: 33rem;
   width: 45.25rem;
   background-size: cover;
