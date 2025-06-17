@@ -13,7 +13,7 @@
   --primary-color-light: rgba(106, 50, 113, 0.8);
 }
 .first-page {
-  background-image: url(../edotask/events/copy2.jpg);
+  background-image: url(../../images/events/copy2.jpg);
   background-position: bottom;
   background-size: cover;
   height: 160px;
